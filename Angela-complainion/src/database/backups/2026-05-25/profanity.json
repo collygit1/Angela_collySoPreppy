@@ -1,0 +1,50 @@
+{
+  "123456789012345678": {
+    "settings": {
+      "enabled": true,
+      "muteDuration": 15,
+      "normalizeUnicode": true,
+      "ghost_mode": false,
+      "maxWarnings": 3,
+      "logChannel": "123456789012345678",
+      "whitelistedUsers": [
+        "1457631388047118429"
+      ],
+      "angels_enabled": true
+    },
+    "words": {
+      "strict": [
+        "fuck", "shit", "bitch", "cunt", "nigger", "faggot", "dick", "pussy", 
+        "asshole", "retard", "slut", "whore", "bastard", "motherfucker"
+      ],
+      "wildcard": [
+        "f*u*c*k", "s.h.i.t", "b.i.t.c.h", "f u c k", "sh1t", "p0rn", 
+        "fuuuck", "f_u_c_k", "d1ck", "a$$"
+      ],
+      "links": [
+        "discord.gg/", "bit.ly/", "t.co/", "tinyurl.com/", "grabify.link/", 
+        "iplogger.org/", "goo.gl/", "shorturl.at/"
+      ],
+      "malicious_ext": [
+        ".exe", ".bat", ".src", ".zip", ".rar", ".msi", ".vbs", ".js", 
+        ".pyw", ".com", ".cmd"
+      ],
+      "nsfw_msg": [
+        "porn", "sex", "hentai", "xxx", "brazzers", "nude", "leaked", 
+        "onlyfans", "premium content", "nsfw"
+      ],
+      "spam_context": [
+        "!!!!", "free gift", "nitro", "giveaway", "everyone", "here", 
+        "join for", "limited offer"
+      ],
+      "scam_context": [
+        "freereward", "claimgift", "steam-nitro", "discord-promo", 
+        "airdrop", "crypto profit", "investment", "wallet sync"
+      ],
+      "safety_intercept": [
+        "suicide", "self harm", "kill myself", "want to die", "end my life", 
+        "cutting myself", "depressed and done"
+      ]
+    }
+  }
+}

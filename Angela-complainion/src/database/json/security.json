@@ -1,0 +1,139 @@
+{
+  "1503425331518898257": {
+    "logChannel": null,
+    "lockdown": false,
+    "whitelist": [],
+    "blacklist": [],
+    "accountAgeMin": 0,
+    "warnings": {},
+    "config": {
+      "antiNuke": {
+        "enabled": true,
+        "threshold": 5,
+        "window": 10000
+      },
+      "antiRaid": {
+        "enabled": true,
+        "threshold": 10,
+        "window": 10000
+      },
+      "antiSpam": {
+        "enabled": true,
+        "msgThreshold": 5,
+        "mentionThreshold": 5,
+        "linkThreshold": 3,
+        "window": 5000
+      }
+    }
+  },
+  "1497939725850378452": {
+    "logChannel": null,
+    "lockdown": false,
+    "whitelist": [],
+    "blacklist": [],
+    "accountAgeMin": 0,
+    "warnings": {},
+    "config": {
+      "antiNuke": {
+        "enabled": true,
+        "threshold": 5,
+        "window": 10000
+      },
+      "antiRaid": {
+        "enabled": true,
+        "threshold": 10,
+        "window": 10000
+      },
+      "antiSpam": {
+        "enabled": true,
+        "msgThreshold": 5,
+        "mentionThreshold": 5,
+        "linkThreshold": 3,
+        "window": 5000
+      }
+    }
+  },
+  "1494256773115150390": {
+    "logChannel": null,
+    "lockdown": false,
+    "whitelist": [],
+    "blacklist": [],
+    "accountAgeMin": 0,
+    "warnings": {},
+    "config": {
+      "antiNuke": {
+        "enabled": true,
+        "threshold": 5,
+        "window": 10000
+      },
+      "antiRaid": {
+        "enabled": true,
+        "threshold": 10,
+        "window": 10000
+      },
+      "antiSpam": {
+        "enabled": true,
+        "msgThreshold": 5,
+        "mentionThreshold": 5,
+        "linkThreshold": 3,
+        "window": 5000
+      }
+    }
+  },
+  "1300333690030919690": {
+    "logChannel": null,
+    "lockdown": false,
+    "whitelist": [],
+    "blacklist": [],
+    "accountAgeMin": 0,
+    "warnings": {},
+    "config": {
+      "antiNuke": {
+        "enabled": true,
+        "threshold": 5,
+        "window": 10000
+      },
+      "antiRaid": {
+        "enabled": true,
+        "threshold": 10,
+        "window": 10000
+      },
+      "antiSpam": {
+        "enabled": true,
+        "msgThreshold": 5,
+        "mentionThreshold": 5,
+        "linkThreshold": 3,
+        "window": 5000
+      }
+    }
+  },
+  "1495072905762177044": {
+    "logChannel": null,
+    "lockdown": false,
+    "whitelist": [],
+    "blacklist": [],
+    "accountAgeMin": 0,
+    "warnings": {
+      "998983038308462662": 1
+    },
+    "config": {
+      "antiNuke": {
+        "enabled": true,
+        "threshold": 5,
+        "window": 10000
+      },
+      "antiRaid": {
+        "enabled": true,
+        "threshold": 10,
+        "window": 10000
+      },
+      "antiSpam": {
+        "enabled": true,
+        "msgThreshold": 5,
+        "mentionThreshold": 5,
+        "linkThreshold": 3,
+        "window": 5000
+      }
+    }
+  }
+}
